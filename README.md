@@ -16,3 +16,10 @@ Stores and retrieves embeddings using FAISS (via Chroma DB).
 Implements MultiQueryRetriever for enhanced retrieval.
 
 Generates responses using ChatOllama.
+
+
+## Installation
+Copy and run the following command:
+
+```bash
+pip install langchain chromadb pypdf unstructured ollama
